@@ -1,0 +1,16 @@
+a=10
+b=20
+c=30
+a=b
+b=c
+c=70
+e=b
+f=c
+a=b
+b=e
+f=a
+print(a)
+print(b)
+print(c)
+print(e)
+print(f)
