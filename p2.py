@@ -9,8 +9,4 @@ f=c
 a=b
 b=e
 f=a
-print(a)
-print(b)
-print(c)
-print(e)
-print(f)
+print(a,b,c,e,f)
